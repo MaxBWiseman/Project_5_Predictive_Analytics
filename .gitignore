@@ -9,3 +9,7 @@ node_modules/
 cloudinary_python.txt
 kaggle.json
 outputs/
+<<<<<<< HEAD
+=======
+inputs/
+>>>>>>> db1c26a (First stages of data clean)
